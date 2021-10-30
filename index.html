@@ -240,12 +240,12 @@ function select_hairstyle(hair_Value) {
 }
 
 function select_upbody(upBody_Value) {
+    layer9.src = "image/layer9/" + upBody_Value + ".png"
     layer2.src = "image/layer2/" + upBody_Value + ".png"
-    layer4.src = "image/layer4/" + upBody_Value + ".png"
     layer7.src = "image/layer7/" + upBody_Value + ".png"
       setTimeout(function (){
-        layer9.src = "image/layer9/" + upBody_Value + ".png"
-        layer9.onload = function() {
+        layer4.src = "image/layer4/" + upBody_Value + ".png"
+        layer4.onload = function() {
             clearCanvas();
             drawImage();
         }
