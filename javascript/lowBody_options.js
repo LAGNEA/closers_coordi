@@ -10,6 +10,13 @@ var lowBody_Options = [
     { "lowBody_Text" : "드래고니안", "lowBody_Value" : "R5" },
     { "lowBody_Text" : "샤이닝스타", "lowBody_Value" : "U1" },
     { "lowBody_Text" : "솔로몬의 예복", "lowBody_Value" : "U2" },
-    
+    { "lowBody_Text" : "하우스키퍼 [A타입]", "lowBody_Value" : "HOUSE_KEEPER_A" },
+    { "lowBody_Text" : "하우스키퍼 [B타입]", "lowBody_Value" : "HOUSE_KEEPER_B" },
+    { "lowBody_Text" : "하우스키퍼 [C타입]", "lowBody_Value" : "HOUSE_KEEPER_C" },
+    { "lowBody_Text" : "하우스키퍼 [D타입]", "lowBody_Value" : "HOUSE_KEEPER_D" },
+    { "lowBody_Text" : "바니걸 [A타입]", "lowBody_Value" : "BUNNYGIRL_A" },
+    { "lowBody_Text" : "바니걸 [B타입]", "lowBody_Value" : "BUNNYGIRL_B" },
+    { "lowBody_Text" : "바니걸 [C타입]", "lowBody_Value" : "BUNNYGIRL_C" },
+    { "lowBody_Text" : "바니걸 [D타입]", "lowBody_Value" : "BUNNYGIRL_D" },
 ]
   

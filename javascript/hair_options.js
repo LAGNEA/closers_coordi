@@ -10,4 +10,8 @@ var hair_Options = [
     { "hair_Text" : "드래고니안", "hair_Value" : "R5" },
     { "hair_Text" : "샤이닝스타", "hair_Value" : "U1" },
     { "hair_Text" : "솔로몬의 예복", "hair_Value" : "U2" },
+    { "hair_Text" : "하우스키퍼 [A타입]", "hair_Value" : "HOUSE_KEEPER_A" },
+    { "hair_Text" : "하우스키퍼 [B타입]", "hair_Value" : "HOUSE_KEEPER_B" },
+    { "hair_Text" : "하우스키퍼 [C타입]", "hair_Value" : "HOUSE_KEEPER_C" },
+    { "hair_Text" : "하우스키퍼 [D타입]", "hair_Value" : "HOUSE_KEEPER_D" },
 ]
