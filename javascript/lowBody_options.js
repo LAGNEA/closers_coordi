@@ -18,5 +18,6 @@ var lowBody_Options = [
     { "lowBody_Text" : "바니걸 [B타입]", "lowBody_Value" : "BUNNYGIRL_B" },
     { "lowBody_Text" : "바니걸 [C타입]", "lowBody_Value" : "BUNNYGIRL_C" },
     { "lowBody_Text" : "바니걸 [D타입]", "lowBody_Value" : "BUNNYGIRL_D" },
+    { "lowBody_Text" : "병아리반", "lowBody_Value" : "CLOTH_23" },
 ]
   

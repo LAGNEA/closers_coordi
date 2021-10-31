@@ -18,6 +18,7 @@ var foot_Options = [
     { "foot_Text" : "바니걸 [B타입]", "foot_Value" : "BUNNYGIRL_B" },
     { "foot_Text" : "바니걸 [C타입]", "foot_Value" : "BUNNYGIRL_C" },
     { "foot_Text" : "바니걸 [D타입]", "foot_Value" : "BUNNYGIRL_D" },
+    { "foot_Text" : "병아리반", "foot_Value" : "CLOTH_23" },
     
 ]
   

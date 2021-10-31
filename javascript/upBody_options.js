@@ -18,6 +18,7 @@ var upBody_Options = [
     { "upBody_Text" : "바니걸 [B타입]", "upBody_Value" : "BUNNYGIRL_B" },
     { "upBody_Text" : "바니걸 [C타입]", "upBody_Value" : "BUNNYGIRL_C" },
     { "upBody_Text" : "바니걸 [D타입]", "upBody_Value" : "BUNNYGIRL_D" },
+    { "upBody_Text" : "병아리반", "upBody_Value" : "CLOTH_23" },
     
 ]
   
