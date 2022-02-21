@@ -18,5 +18,10 @@ var hand_Options = [
     { "hand_Text" : "바니걸 [B타입]", "hand_Value" : "BUNNYGIRL_B" },
     { "hand_Text" : "바니걸 [C타입]", "hand_Value" : "BUNNYGIRL_C" },
     { "hand_Text" : "바니걸 [D타입]", "hand_Value" : "BUNNYGIRL_D" },
+    { "hand_Text" : "4월의 고양이 글러브", "hand_Value" : "CLOTH_25" },
+    { "hand_Text" : "유니온 아카데미 라인 트리밍 장갑 [A타입]", "hand_Value" : "CLOTH_26_A" },
+    { "hand_Text" : "유니온 아카데미 라인 트리밍 장갑 [B타입]", "hand_Value" : "CLOTH_26_B" },
+    { "hand_Text" : "유니온 아카데미 라인 트리밍 장갑 [C타입]", "hand_Value" : "CLOTH_26_A" },
+
 ]
   

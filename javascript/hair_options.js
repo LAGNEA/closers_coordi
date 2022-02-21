@@ -15,4 +15,5 @@ var hair_Options = [
     { "hair_Text" : "하우스키퍼 [C타입]", "hair_Value" : "HOUSE_KEEPER_C" },
     { "hair_Text" : "하우스키퍼 [D타입]", "hair_Value" : "HOUSE_KEEPER_D" },
     { "hair_Text" : "병아리반", "hair_Value" : "CLOTH_23" },
+    { "hair_Text" : "4월의 고양이 헤어", "hair_Value" : "CLOTH_25" },
 ]

@@ -19,6 +19,10 @@ var upBody_Options = [
     { "upBody_Text" : "바니걸 [C타입]", "upBody_Value" : "BUNNYGIRL_C" },
     { "upBody_Text" : "바니걸 [D타입]", "upBody_Value" : "BUNNYGIRL_D" },
     { "upBody_Text" : "병아리반", "upBody_Value" : "CLOTH_23" },
+    { "upBody_Text" : "4월의 고양이 레이스 탑", "upBody_Value" : "CLOTH_25" },
+    { "upBody_Text" : "유니온 아카데미 더블 플레어 원피스 [A타입]", "upBody_Value" : "CLOTH_26_A" },
+    { "upBody_Text" : "유니온 아카데미 더블 플레어 원피스 [B타입]", "upBody_Value" : "CLOTH_26_B" },
+    { "upBody_Text" : "유니온 아카데미 더블 플레어 원피스 [C타입]", "upBody_Value" : "CLOTH_26_A" },
     
 ]
   

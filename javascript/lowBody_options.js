@@ -19,5 +19,9 @@ var lowBody_Options = [
     { "lowBody_Text" : "바니걸 [C타입]", "lowBody_Value" : "BUNNYGIRL_C" },
     { "lowBody_Text" : "바니걸 [D타입]", "lowBody_Value" : "BUNNYGIRL_D" },
     { "lowBody_Text" : "병아리반", "lowBody_Value" : "CLOTH_23" },
+    { "lowBody_Text" : "4월의 고양이 리본 쇼츠", "lowBody_Value" : "CLOTH_25" },
+    { "lowBody_Text" : "유니온 아카데미 레이스 스커트 [A타입]", "lowBody_Value" : "CLOTH_26_A" },
+    { "lowBody_Text" : "유니온 아카데미 레이스 스커트 [B타입]", "lowBody_Value" : "CLOTH_26_B" },
+    { "lowBody_Text" : "유니온 아카데미 레이스 스커트 [C타입]", "lowBody_Value" : "CLOTH_26_A" },
 ]
   

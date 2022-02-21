@@ -19,6 +19,10 @@ var foot_Options = [
     { "foot_Text" : "바니걸 [C타입]", "foot_Value" : "BUNNYGIRL_C" },
     { "foot_Text" : "바니걸 [D타입]", "foot_Value" : "BUNNYGIRL_D" },
     { "foot_Text" : "병아리반", "foot_Value" : "CLOTH_23" },
+    { "foot_Text" : "4월의 고양이 오버니삭스", "foot_Value" : "CLOTH_25" },
+    { "foot_Text" : "유니온 아카데미 니하이 부츠 [A타입]", "foot_Value" : "CLOTH_26_A" },
+    { "foot_Text" : "유니온 아카데미 니하이 부츠 [B타입]", "foot_Value" : "CLOTH_26_B" },
+    { "foot_Text" : "유니온 아카데미 니하이 부츠 [C타입]", "foot_Value" : "CLOTH_26_A" },
     
 ]
   
